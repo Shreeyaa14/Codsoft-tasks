@@ -1,7 +1,7 @@
 PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
-892,0,3,"Kelly, Mr. James",male,34.5,0,0,330911,7.8292,,Q
-893,1,3,"Wilkes, Mrs. James (Ellen Needs)",female,47,1,0,363272,7,,S
-894,0,2,"Myles, Mr. Thomas Francis",male,62,0,0,240276,9.6875,,Q
+892,0,3,"Kelly, Mr. Lian",male,34.5,0,0,330911,7.8292,,Q
+893,1,3,"Wilkes, Mrs. Lian (Ellen Needs)",female,47,1,0,363272,7,,S
+894,0,2,"Myles, Mr. Robert Francis",male,62,0,0,240276,9.6875,,Q
 895,0,3,"Wirz, Mr. Albert",male,27,0,0,315154,8.6625,,S
 896,1,3,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",female,22,1,1,3101298,12.2875,,S
 897,0,3,"Svensson, Mr. Johan Cervin",male,14,0,0,7538,9.225,,S
@@ -412,8 +412,8 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 1302,1,3,"Naughton, Miss. Hannah",female,,0,0,365237,7.75,,Q
 1303,1,1,"Minahan, Mrs. William Edward (Lillian E Thorpe)",female,37,1,0,19928,90,C78,Q
 1304,1,3,"Henriksson, Miss. Jenny Lovisa",female,28,0,0,347086,7.775,,S
-1305,0,3,"Spector, Mr. Woolf",male,,0,0,A.5. 3236,8.05,,S
+1305,0,3,"Spector, Mr. Walter",male,,0,0,A.5. 3236,8.05,,S
 1306,1,1,"Oliva y Ocana, Dona. Fermina",female,39,0,0,PC 17758,108.9,C105,C
-1307,0,3,"Saether, Mr. Simon Sivertsen",male,38.5,0,0,SOTON/O.Q. 3101262,7.25,,S
+1307,0,3,"Saether, Mr. Stephen Daniel",male,38.5,0,0,SOTON/O.Q. 3101262,7.25,,S
 1308,0,3,"Ware, Mr. Frederick",male,,0,0,359309,8.05,,S
 1309,0,3,"Peter, Master. Michael J",male,,1,1,2668,22.3583,,C
